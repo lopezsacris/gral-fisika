@@ -1,1 +1,1 @@
-# gral-fisika
+# Gradu Amaierako Lana: Fisika
